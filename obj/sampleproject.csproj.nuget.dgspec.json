@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NifraZ\\SampleProject\\sampleproject.csproj": {}
+    "C:\\Users\\NifraZ\\sampleproject\\sampleproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NifraZ\\SampleProject\\sampleproject.csproj": {
+    "C:\\Users\\NifraZ\\sampleproject\\sampleproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NifraZ\\SampleProject\\sampleproject.csproj",
+        "projectUniqueName": "C:\\Users\\NifraZ\\sampleproject\\sampleproject.csproj",
         "projectName": "sampleproject",
-        "projectPath": "C:\\Users\\NifraZ\\SampleProject\\sampleproject.csproj",
+        "projectPath": "C:\\Users\\NifraZ\\sampleproject\\sampleproject.csproj",
         "packagesPath": "C:\\Users\\NifraZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NifraZ\\SampleProject\\obj\\",
+        "outputPath": "C:\\Users\\NifraZ\\sampleproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NifraZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0qV+1/kBcJvi1hgsXCeqS0k5nS71nEyF5okzRKBSWOBJ7YG5TFzpQMa0RJiKzHL5PGZa0cZhRRdNRco6d/EofA==",
+  "dgSpecHash": "rPzlymNyXOZSB9/hx0hg6aaWsrbY0PzTvCQKFWTTW5VNXnj9jX4umYwYq036hnkpbJ31RnkHpP/U3qxprUqXAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NifraZ\\SampleProject\\sampleproject.csproj",
+  "projectFilePath": "C:\\Users\\NifraZ\\sampleproject\\sampleproject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
