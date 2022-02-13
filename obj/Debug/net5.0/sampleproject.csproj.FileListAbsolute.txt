@@ -1,0 +1,16 @@
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.exe
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.deps.json
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.runtimeconfig.json
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.runtimeconfig.dev.json
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.dll
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\ref\sampleproject.dll
+C:\Users\NifraZ\sampleproject\bin\Debug\net5.0\sampleproject.pdb
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.csproj.AssemblyReference.cache
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.AssemblyInfoInputs.cache
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.AssemblyInfo.cs
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.csproj.CoreCompileInputs.cache
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.dll
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\ref\sampleproject.dll
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.pdb
+C:\Users\NifraZ\sampleproject\obj\Debug\net5.0\sampleproject.genruntimeconfig.cache
