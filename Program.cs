@@ -9,6 +9,7 @@ namespace sampleproject
             System.Console.Write("Enter your name: ");
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name}.");
+            Console.WriteLine("This is Nifraz!");
         }
     }
 }
