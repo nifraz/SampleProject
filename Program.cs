@@ -6,7 +6,7 @@ namespace sampleproject
     {
         static void Main(string[] args)
         {
-            System.Console.Write("Enter your name: ");
+            System.Console.Write("Enter your good name: ");
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name}. Hi there, and Welcome...");
             Console.WriteLine("This is Nifraz!");
